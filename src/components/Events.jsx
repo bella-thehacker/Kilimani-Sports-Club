@@ -108,7 +108,7 @@ export default function Events() {
           />
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">Club Events & Activities</h1>
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 mt-20">Club Events & Activities</h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto">
             Join us for exciting competitions, training sessions, and community gatherings throughout the year.
           </p>

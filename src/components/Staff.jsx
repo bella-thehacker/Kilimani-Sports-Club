@@ -18,7 +18,7 @@ export default function Staff() {
             <FaTrophy className="inline-block mr-2" />
             Elite Coaching Staff
           </div>
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">Meet Our Elite Team</h1>n
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 mt-10">Meet Our Elite Team</h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto">
             Our club is home to some of the most accomplished professionals in the world of sports. With decades of
             experience, record-breaking achievements, and unmatched dedication, they ensure our athletes reach their

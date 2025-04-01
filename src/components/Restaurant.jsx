@@ -27,7 +27,9 @@ export default function Restaurant() {
             <a href="#gift-cards" className="hover:text-amber-200 transition-colors">
               GIFT CARDS
             </a>
-            <a href="#order" className="hover:text-amber-200 transition-colors">
+            <a href="#order" className="hover:text-amber-200 transitiel.app
+Resources
+on-colors">
               ORDER TAKEOUT
             </a>
           </nav>

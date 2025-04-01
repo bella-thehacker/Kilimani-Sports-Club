@@ -5,7 +5,7 @@ export default function Membership() {
     <main className="w-full bg-amber-50 min-h-screen py-16 px-4 md:px-6">
       <div className="max-w-7xl mx-auto">
         {/* Header Section */}
-        <div className="text-center mb-16">
+        <div className="text-center mb-16 mt-20">
           <h1 className="text-4xl md:text-6xl font-serif mb-4">
             <span className="text-amber-700">Membership</span>
             <span className="text-amber-900">-options</span>
@@ -318,7 +318,7 @@ export default function Membership() {
                   type="tel"
                   id="phone"
                   className="pl-10 w-full rounded-md border border-amber-200 py-2 px-3 text-amber-900 focus:outline-none focus:ring-2 focus:ring-amber-600"
-                  placeholder="+1 (123) 456-7890"
+                  placeholder="+254 712345678"
                 />
               </div>
             </div>
