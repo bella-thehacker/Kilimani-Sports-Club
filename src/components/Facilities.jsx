@@ -262,7 +262,7 @@ export default function Facilities() {
               state-of-the-art gym, everything is designed with the athlete in mind. It's become my second home.
             </p>
             <div className="text-center">
-              <p className="font-bold text-amber-800">Michael Johnson</p>
+              <p className="font-bold text-amber-800">Michael Kioko</p>
               <p className="text-amber-700">Member since 2019</p>
             </div>
           </div>

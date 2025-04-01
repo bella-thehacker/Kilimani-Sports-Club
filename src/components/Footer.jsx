@@ -25,17 +25,17 @@ export default function Footer() {
   
           {/* Social Media Icons */}
           <div className="flex space-x-4">
-            <a href="#" aria-label="Facebook">
+            <a href="https://www.facebook.com/CtrlCodeSolutions" aria-label="Facebook">
             <FaFacebookF />
             </a>
             <a href="#" aria-label="Twitter">
             <FaXTwitter />
             </a>
-            <a href="#" aria-label="Instagram">
+            <a href="https://www.instagram.com/ctrl_code_solutions/" aria-label="Instagram">
             <RiInstagramFill />
 
             </a>
-            <a href="#" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/ivy-mburu/" aria-label="LinkedIn">
             <FaLinkedin />
             </a>
           </div>

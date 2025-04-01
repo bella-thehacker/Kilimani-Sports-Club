@@ -266,7 +266,7 @@ export default function Staff() {
               game and pushed me to levels I never thought possible.
             </p>
             <div className="text-center">
-              <p className="font-bold text-amber-800">James Wilson</p>
+              <p className="font-bold text-amber-800">James Wang'ondu</p>
               <p className="text-amber-700">Junior Tennis Champion</p>
             </div>
           </div>
