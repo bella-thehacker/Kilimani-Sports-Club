@@ -174,7 +174,7 @@ function HomePage() {
               <div className="flex items-center mb-4">
                 <div className="w-12 h-12 bg-amber-200 rounded-full mr-4"></div>
                 <div>
-                  <h3 className="font-bold text-amber-900">Michael Kamau</h3>
+                  <h3 className="font-bold text-amber-900">William Ruto</h3>
                   <p className="text-amber-600 text-sm">Tennis Enthusiast</p>
                 </div>
               </div>

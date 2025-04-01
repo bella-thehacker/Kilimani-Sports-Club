@@ -42,7 +42,7 @@ export default function Staff() {
             </div>
           </div>
           <div className="w-full md:w-1/2 p-8 md:p-12">
-            <h2 className="text-3xl font-bold text-amber-900 mb-2">Coach Adrian Carter</h2>
+            <h2 className="text-3xl font-bold text-amber-900 mb-2">Coach Adrian Gachagua</h2>
             <div className="flex items-center mb-4">
               <div className="h-1 w-20 bg-amber-500 mr-4"></div>
               <span className="text-amber-700 font-medium">Football Strategist</span>
@@ -77,7 +77,7 @@ export default function Staff() {
               </div>
             </div>
             <div className="p-6 flex-grow">
-              <h3 className="text-2xl font-bold text-amber-900 mb-2">Dr. Emily Rhodes</h3>
+              <h3 className="text-2xl font-bold text-amber-900 mb-2">Dr. Emily Wairimu</h3>
               <div className="flex items-center mb-4">
                 <div className="h-1 w-16 bg-amber-500 mr-4"></div>
                 <span className="text-amber-700 font-medium">Sports Scientist</span>
@@ -109,7 +109,7 @@ export default function Staff() {
               </div>
             </div>
             <div className="p-6 flex-grow">
-              <h3 className="text-2xl font-bold text-amber-900 mb-2">Alexander Novak</h3>
+              <h3 className="text-2xl font-bold text-amber-900 mb-2">Alexander Ndanu</h3>
               <div className="flex items-center mb-4">
                 <div className="h-1 w-16 bg-amber-500 mr-4"></div>
                 <span className="text-amber-700 font-medium">Grand Slam Champion</span>
@@ -144,7 +144,7 @@ export default function Staff() {
               </div>
             </div>
             <div className="p-5 flex-grow">
-              <h3 className="text-xl font-bold text-amber-900 mb-1">Coach Marcus Reed</h3>
+              <h3 className="text-xl font-bold text-amber-900 mb-1">Coach Marcus Biwott</h3>
               <div className="flex items-center mb-3">
                 <div className="h-1 w-12 bg-amber-500 mr-3"></div>
                 <span className="text-amber-700 font-medium text-sm">Tactical Genius</span>
@@ -170,7 +170,7 @@ export default function Staff() {
               </div>
             </div>
             <div className="p-5 flex-grow">
-              <h3 className="text-xl font-bold text-amber-900 mb-1">Sophia Laurent</h3>
+              <h3 className="text-xl font-bold text-amber-900 mb-1">Sophia Njogu</h3>
               <div className="flex items-center mb-3">
                 <div className="h-1 w-12 bg-amber-500 mr-3"></div>
                 <span className="text-amber-700 font-medium text-sm">Former Olympian</span>
@@ -196,7 +196,7 @@ export default function Staff() {
               </div>
             </div>
             <div className="p-5 flex-grow">
-              <h3 className="text-xl font-bold text-amber-900 mb-1">Julian Hart</h3>
+              <h3 className="text-xl font-bold text-amber-900 mb-1">Julian Waweru</h3>
               <div className="flex items-center mb-3">
                 <div className="h-1 w-12 bg-amber-500 mr-3"></div>
                 <span className="text-amber-700 font-medium text-sm">World Champion</span>
@@ -224,7 +224,7 @@ export default function Staff() {
               </div>
             </div>
             <div className="w-full md:w-2/3 p-6">
-              <h3 className="text-xl font-bold text-amber-900 mb-1">Dr. Ava Sinclair</h3>
+              <h3 className="text-xl font-bold text-amber-900 mb-1">Dr. Ava Aludo</h3>
               <div className="flex items-center mb-3">
                 <div className="h-1 w-12 bg-amber-500 mr-3"></div>
                 <span className="text-amber-700 font-medium text-sm">Sports Therapy Expert</span>
