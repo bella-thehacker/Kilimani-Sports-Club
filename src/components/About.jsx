@@ -3,9 +3,9 @@ import { FaFutbol, FaRunning, FaTrophy } from "react-icons/fa";
 export default function About() {
   return (
     <main className="w-full bg-amber-50">
-      <section className="bg-amber-200 relative text-amber-900 py-16 px-6 flex flex-col items-center mb-12">
+      <section className="bg-amber-200 relative text-amber-900 py-16 px-6 flex flex-col items-center mb-12 mt-5">
         <div className="max-w-5xl mx-auto w-full">
-          <h1 className="text-3xl md:text-4xl font-bold mb-8 text-center">Our Sports Club Journey</h1>
+          <h1 className="text-3xl md:text-4xl font-bold mb-8 text-center mt-20">Our Sports Club Journey</h1>
           <img
             src="/cutsie.gif"
             alt="Shoe Animation"
